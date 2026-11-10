@@ -1,0 +1,7 @@
+{
+  "acervo_original_49_pdf_346_fragmentos": true,
+  "/api/subir?nombre=a.pdf": 403,
+  "/api/subir?nombre=CON.pdf": 400,
+  "/api/subir?nombre=a.pdf&clave=no_valida": 400,
+  "/api/subir?nombre=limite.pdf": 413
+}

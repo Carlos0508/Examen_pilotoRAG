@@ -1,0 +1,12 @@
+{
+  "catalogo_49": true,
+  "/api/consulta": 405,
+  "/pdf/no-existe": 404,
+  "/../pom.xml": 404,
+  "/app.js": 200,
+  "/style.css": 200,
+  "sin_token": 403,
+  "entrada_invalida": 400,
+  "host_externo": 403,
+  "pdfs_49": true
+}

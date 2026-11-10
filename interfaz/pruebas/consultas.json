@@ -1,0 +1,14 @@
+[
+  {
+    "carpeta": "consulta-ui-1342509af85b4362bf1a7c6c1de93fb1",
+    "estado": "EVIDENCIA_ENCONTRADA",
+    "dato_esperado": "sa@unam.mx",
+    "aviso_automatico": false
+  },
+  {
+    "carpeta": "consulta-ui-d3dfab6790c84f9f85ca21e028a15a4f",
+    "estado": "EVIDENCIA_ENCONTRADA",
+    "dato_esperado": "Comité Asesor de Obras",
+    "aviso_automatico": true
+  }
+]
